@@ -55,12 +55,6 @@ Once the server is running, you can view the app in your web browser at `http://
 3. Click the "Run" button to generate the plot.
 4. The plot will display the relationship between pressure and temperature based on the inputs provided.
 
-## Example
-
-The app will generate a plot similar to the one below:
-
-![Example Plot](image.png)
-
 ## Customization
 
 The application layout and styling can be easily customized by modifying the `layout` dictionary and CSS styles within the `app.py` file. 
